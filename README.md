@@ -24,7 +24,7 @@ Using the dataset, i have tried to answer the following 3 questions.\
 At the end of the project i have applied linear regression to the data set, to predict the price of the airbnb lisitng  available based on different feature availalble.
 
 ## Results
-The results of the 3 business questions posed are as below. For detailed infomation you can find the information on the [medium blog post]()
+The results of the 3 business questions posed are as below. For detailed infomation you can find the information on the [medium blog post](https://medium.com/@grewalshagan94/how-data-can-help-you-airbnb-efficiently-in-seattle-e8ac70a54c86)
 1)	Most Popular Room Type\
 ***Entire Home or Apartment*** is the most popular listing based on the room type with total share of ***66.6%*** to total listings, accounting for almost 2/3 of the total listings. Second most popular listing is ***Private Room*** with 30%. Based on room type, ***Boat*** was the most expensive to rent with average price of $250, while ***Dorm and Tent*** being most budget friendly. ***Entire Apartment or Home*** had average price of $155, while ***Private Room*** had average price of $75
 
